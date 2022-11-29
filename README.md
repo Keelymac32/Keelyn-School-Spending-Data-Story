@@ -2,5 +2,5 @@
 DataVizForAll.org story using modified Bootstrap
 
 ## Live view of Data Story for Build 6
-https://keelymac32.github.io/Data-Viz-Story/
+https://keelymac32.github.io/Keelyn-Data-Story-Build-6/
 
