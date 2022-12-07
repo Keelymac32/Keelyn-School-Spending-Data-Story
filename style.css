@@ -18,12 +18,12 @@ section {
 }
 
 a:link {
-  color: white;
+  color: grey;
 }
 
 /* visited link */
 a:visited {
-  color: white;
+  color: grey;
 }
 
 /* mouse over link */
